@@ -1,7 +1,7 @@
 FROM php:7.3-apache
 
 ENV OPENCART_VER 3.0.3.6
-ENV OPENCART_MD5 41c7e7ec49d389fc4c2204efb40289e6
+ENV OPENCART_MD5 FF9034C333C2F818E0727918C1132F2A
 ENV OPENCART_URL https://github.com/opencart/opencart/releases/download/${OPENCART_VER}/opencart-${OPENCART_VER}.zip
 ENV OPENCART_FILE opencart.zip
 
