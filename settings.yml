@@ -46,5 +46,3 @@ system:
   #Generate public ports for the docker image
   ports:
     http: OPENCART_HTTP_PORT
-    others:
-
